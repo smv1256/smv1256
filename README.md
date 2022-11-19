@@ -1,4 +1,4 @@
-- 'Ello, I’m S .M. V.!
+- 'Ello, I’m S. M. V.!
 - I like coding, music, art, and learning absolutely random stuff with no real-life value.
 - Currently, I'm learning, or at least, *attempting* to, learn HTML and CSS.
 - A day later... Now I'm kinda okay with HTML and CSS and tryin' to learn SQL and sucking at it.
