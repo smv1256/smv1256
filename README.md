@@ -1,7 +1,7 @@
 - Hello, I’m S. M. V.!
 - I like coding, music, art, and learning absolutely random stuff with no real-life value.
-- Currently, I'm learning, or at least, *attempting* to, learn HTML and CSS.
-- (A day later... Now I'm kinda okay with HTML and CSS and tryin' to learn SQL and sucking at it.)
+- I'm dabbling around in HTML/CSS, SQL, Python, and JS. But the only thing I'm somewhat good at... Is Processing, lol. Doesn't even count as knowing a language. I'm ehhhhh at HTML and CSS, and ehhhhh-er at SQL. 
+- ...But I do know 5 irl languages, so there's that... XP
 - I'm now 14 yo in grade 8.
 - You can find me on Khan Academy under the same name of S. M. V. =)
 - I have no clue how to use this.
