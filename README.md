@@ -1,12 +1,1 @@
-- Hello, I’m S. M. V.!
-- I like coding, music, art, and learning absolutely random stuff with no real-life value.
-- I'm playing around with in HTML/CSS, SQL, C++, and JS. But the only thing I'm _good_ at... Is Processing, lol... T.T
-- _...But_ I _do_ know 5 irl languages, so there's that... XP
-- I'm now 14 yo in grade 8.
-- You can find me on Khan Academy under the same name of S. M. V. =)
-- I have no clue how to use this.
-- I need help.
-- Nobody is gonna read this.
-- I need a life.
-- Bye!
-
+Hello =)
