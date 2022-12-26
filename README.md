@@ -8,11 +8,7 @@ I don't do much on here, in all honesty; I'm more active on Khan Academy...<br>I
 - I just turned 14
 - I like learning useless stuff...
 - ...Like all 197 country flags =P
-- I ~know JS, HTML, CSS, SQL, & PJS; I'm learning C++ and 3D
+- I ~know JS, HTML, CSS, SQL, & PJS; I'm learning Python
 - I ~know English, German, -----, Spanish, French, & Russian; I'm learning Italian while getting even more fluent in the others =P
 - I live on Neptune ;)
 - I'm from the capital of the southernmost state of the 196th least-populated country on Earth (-lol-)
-- My cocoa is fs better than Astro's and ski's >:D
-
-
-
