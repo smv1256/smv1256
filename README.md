@@ -12,3 +12,8 @@ I don't do much on here, in all honesty; I'm more active on Khan Academy...<br>I
 - I ~know English, German, -----, Spanish, French, & Russian; I'm learning Italian while getting even more fluent in the others =P
 - I live on Neptune ;)
 - I'm from the capital of the southernmost state of the 196th least-populated country on Earth (-lol-)
+
+If you want to talk to me for any reason at all, just hit me up in the Discussions on this repo =)
+
+
+
