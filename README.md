@@ -8,7 +8,6 @@ I don't do much on here, in all honesty; I'm more active on Khan Academy...<br>I
 - ...
 - ...Yeah, no, idk, who _am_ I?
 
-If you want to talk to me for any reason at all, just hit me up in the Discussions on this repo =)
-
+:p
 
 
