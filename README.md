@@ -11,3 +11,7 @@ I don't do much on here, in all honesty; I'm more active on Khan Academy...<br>I
 - ...Yeah, no, idk, who _am_ I?
 
 :p 
+
+---
+
+Wanna reach me? <br> Check out the Discussions on this repo, and I'm happy to talk :) <br> <sub>And company is appreciated in this morose world we live in and I have no life so, like, please do, lol :D</sub>
