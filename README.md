@@ -11,3 +11,9 @@ I don't do much on here, in all honesty; I'm more active on Khan Academy...<br>I
 - ...Yeah, no, idk, who _am_ I?
 
 :p 
+
+---
+
+<h4>Wanna reach me?</h4>
+
+Send me an email at smv1256@proton.me :)
