@@ -1,4 +1,4 @@
-<img src="Header (4).png" width="100%"/>
+<img src="Header (6).png" width="100%"/>
 
 <h1>Hello!</h1>
 <h2>I'm S. M. V.</h2>
