@@ -31,6 +31,7 @@ Oh, yeah.
 ---
 
 **FIND ME:**
+<br>
 - [CodePen](https://codepen.io/vanilla5767)
 - [Khan Academy](https://www.khanacademy.org/)
 - Wanna chat? ProtonMail: smv1256@proton.me
