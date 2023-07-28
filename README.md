@@ -1,3 +1,5 @@
+<img src="Header (4).png" width="100%"/>
+
 <h1>Hello!</h1>
 <h2>I'm S. M. V.</h2>
 <h3>Welcome to my profile :)</h3>
