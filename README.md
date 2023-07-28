@@ -4,6 +4,13 @@
 
 <img src="Header (6).png" width="100%"/>
 
+---
+
+Oh, yeah.
+<br>*****SIDE NOTE**: I AM **NOT** PINK. THAT'S THE RESULT OF A CARTOONISER, I just decided to roll with it, lol. It looks kinda dope in [this](https://www.canva.com/design/DAFpjboj66Q/MBjJGFkPXNwvPiHemtGxIA/view?utm_content=DAFpjboj66Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink), tho, >:). The original pic is nice, but it doesn't flow with a cartoonish theme :p
+<br><sub>Wait, maybe I _am_ pink...</sub>
+<br><sub>Neptune!</sub>
+
 --- 
 
 Hiya! I'm S. M. V., a 14-yo aspiring dev from Neptune. In all honesty, I don't know much about programming, although I have a bit of experience in a multitude of languages. I love creating [graphics](https://www.khanacademy.org/profile/MildlyAwkward/projects) (p5js, Vanilla JS [ctx], handcrafted SVGs, Figma, Canva) and front-end development, and I'm certainly hoping to learn more about back-end dev, too, :D. Most of my repos are private, for the record.
@@ -11,11 +18,6 @@ Hiya! I'm S. M. V., a 14-yo aspiring dev from Neptune. In all honesty, I don't k
 I also like wires, blowing things up, and motorcycles. 
 <br>A lot. 
 <br>Amongst others.
-
-Oh, yeah.
-<br>*****SIDE NOTE**: I AM **NOT** PINK. THAT'S THE RESULT OF A CARTOONISER, I just decided to roll with it, lol. It looks kinda dope in [this](https://www.canva.com/design/DAFpjboj66Q/MBjJGFkPXNwvPiHemtGxIA/view?utm_content=DAFpjboj66Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink), tho, >:). The original pic is nice, but it doesn't flow with a cartoonish theme :p
-<br><sub>Wait, maybe I _am_ pink...</sub>
-<br><sub>Neptune!</sub>
 
 ---
 
