@@ -6,7 +6,7 @@
 
 --- 
 
-Hiya! I'm S. M. V., a 14-yo aspiring dev from Neptune. In all honesty, I don't know that much about programming, although I have a bit of experience in a multitude of languages. I love creating [graphics](https://www.khanacademy.org/profile/MildlyAwkward/projects) (p5js, Vanilla JS [ctx], handcrafted SVGs, Figma, Canva) and front-end development, and I'm certainly hoping to learn more about back-end dev, too, :D. 
+Hiya! I'm S. M. V., a 14-yo aspiring dev from Neptune. In all honesty, I don't know much about programming, although I have a bit of experience in a multitude of languages. I love creating [graphics](https://www.khanacademy.org/profile/MildlyAwkward/projects) (p5js, Vanilla JS [ctx], handcrafted SVGs, Figma, Canva) and front-end development, and I'm certainly hoping to learn more about back-end dev, too, :D. Most of my repos are private, for the record.
 
 I also like wires, blowing things up, and motorcycles. 
 <br>A lot. 
@@ -27,6 +27,13 @@ Oh, yeah.
 - Reassembling my laptop
 - French, Spanish, German, Russian certifs
 - PaNiCkIng aHhHhhhhHhhhHhhhhhhhhhhhhhhhhhHh
+
+---
+
+**FIND ME:**
+- [CodePen](https://codepen.io/vanilla5767)
+- [Khan Academy](https://www.khanacademy.org/)
+- Wanna chat? ProtonMail: smv1256@proton.me
 
 ---
 
