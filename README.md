@@ -32,7 +32,6 @@ Oh, yeah.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SMVthe1st&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SMVthe1st&theme=github_dark)
-![](https://komarev.com/ghpvc/?username=SMVthe1st&color=blue&label=Profile+Visits)
 
 ---
 
@@ -52,3 +51,7 @@ Oh, yeah.
 
 ![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+![](https://komarev.com/ghpvc/?username=SMVthe1st&color=blue&label=Profile+Visits)
