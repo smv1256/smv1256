@@ -36,7 +36,7 @@ I also like wires, blowing things up, and motorcycles.
 
 ---
 
-6/8ths of my repos are private, oki? ;-;
+Nearly all of my repos are private, oki? ;-;
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SMVthe1st&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SMVthe1st&theme=github_dark)
