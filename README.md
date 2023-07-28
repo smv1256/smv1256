@@ -13,7 +13,7 @@ I also like wires, blowing things up, and motorcycles.
 <br>Amongst others.
 
 Oh, yeah.
-<br>*****SIDE NOTE**: I AM **NOT** PINK. THAT'S THE RESULT OF A CARTOONISER, I just decided to roll with it, lol. It looks dope in [this](https://www.canva.com/design/DAFpjboj66Q/MBjJGFkPXNwvPiHemtGxIA/view?utm_content=DAFpjboj66Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink), tho >:)
+<br>*****SIDE NOTE**: I AM **NOT** PINK. THAT'S THE RESULT OF A CARTOONISER, I just decided to roll with it, lol. It looks kinda dope in [this](https://www.canva.com/design/DAFpjboj66Q/MBjJGFkPXNwvPiHemtGxIA/view?utm_content=DAFpjboj66Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink), tho, >:). The original pic is nice, but it doesn't flow with a cartoonish theme :p
 <br><sub>Wait, maybe I _am_ pink...</sub>
 <br><sub>Neptune!</sub>
 
