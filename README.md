@@ -1,14 +1,6 @@
 # Bonjour! I'm S. M. V. :)
 
-<!-- <img src="Header (6).png" width="100%"/>
-
-*****SIDE NOTE**: I AM **NOT** PINK. THAT'S THE RESULT OF A CARTOONISER, I just decided to roll with it, lol. It looks kinda dope in [this](https://www.canva.com/design/DAFpjboj66Q/MBjJGFkPXNwvPiHemtGxIA/view?utm_content=DAFpjboj66Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink), tho, >:). The original pic is nice, but it doesn't flow with the cartoonish theme :p
-<br><sub>Wait, maybe I _am_ pink...</sub>
-<br><sub>Neptune!</sub> -->
-
---- 
-
-Hiya! I'm S. M. V., a 14-yo aspiring dev from Neptune. In all honesty, I don't know much about programming, although I have a bit of experience in a fair number of languages. I love creating [graphics](https://www.khanacademy.org/profile/MildlyAwkward/projects) (PJS, p5js, Vanilla JS [ctx], handcrafted SVGs, Figma, Canva) and front-end development, and I'm certainly hoping to learn more about back-end dev, too, :D.
+Hiya! I'm S. M. V., a 14-yo aspiring dev from Neptune. In all honesty, I don't know too much about programming, although I have a bit of experience in some languages. I love creating [graphics](https://www.khanacademy.org/profile/MildlyAwkward/projects) (PJS, p5js, Vanilla JS [ctx], handcrafted SVGs, Figma, Canva) and front-end development, and I'm certainly hoping to learn more about back-end dev, too, :D. I've recently been experimenting with AI; hopefully, that leads to something...
 
 I also like wires, blowing things up, and motorcycles. 
 <br>A lot. 
@@ -18,12 +10,13 @@ I also like wires, blowing things up, and motorcycles.
 
 **CURRENT PROJECTS:** 
 <br>
+- TSA website
+- Chatbot! TTS?
 - Portfolio
-- Harvard certifications
-- Settin' up a business B)
-- Reassembling my laptop
-- French, Spanish, German, Russian certifs
-- PaNiCkIng _aHhHhhhhHhhhHhhhhhhhhhhhhhhhhhHhHh_
+- Harvard certifications [I got one!]
+- Settin' up smthn B)
+- Reassembling stuff
+- Like 4 clubs, two going to nationals, o.O
 
 ---
 
@@ -54,7 +47,6 @@ Nearly all of my repos are private, oki? ;-;
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
 ![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
