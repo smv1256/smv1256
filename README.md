@@ -13,7 +13,7 @@ I also like wires, blowing things up, and motorcycles.
 - TSA website
 - Chatbot! TTS?
 - Portfolio
-- Harvard certifications [I got one!]
+- Harvard certifications [I got [one](https://certificates.cs50.io/f20b227c-2e58-4e3f-a32f-0cc17af6e02e.pdf?size=letter)!]
 - Settin' up smthn B)
 - Reassembling stuff
 - Like 4 clubs, two going to nationals, o.O
