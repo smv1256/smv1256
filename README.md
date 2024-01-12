@@ -10,14 +10,19 @@ I also like wires, blowing things up, and motorcycles.
 
 **CURRENT PROJECTS:** 
 <br>
+- History final (website w/Next... Probs not the best time to experiment but ¯\_(ツ)_/¯)
 - TSA website
-- Chatbot! TTS?
-- Portfolio
+    - Chatbot! TTS?
+- Far too many comps
+- Several clubs, two going to nationals, o.O
+    - Shoot so here's future S. M. V. and I only remember one going to Nationals which means I'm concerned b'cuz this means I'm forgetting something
+    - Also elections for clubs... ._.
 - Harvard certifications [I got one!]
 - Settin' up smthn B)
 - Reassembling stuff
-- Like 4 clubs, two going to nationals, o.O
-    - Shoot so here's future S. M. V. and I only remember one going to Nationals which means I'm concerned b'cuz this means I'm forgetting something
+- Portfolio
+
+NTS: I visit this page too often, so might as well give a reminder that _finals are next week_ and I've studied _zilch_.
 
 ---
 
@@ -30,7 +35,7 @@ I also like wires, blowing things up, and motorcycles.
 
 ---
 
-Nearly all of my repos are private, oki? ;-;
+Most of my repos are private :skull:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SMVthe1st&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SMVthe1st&theme=github_dark)
