@@ -22,8 +22,6 @@ I also like wires, blowing things up, and motorcycles.
 - Reassembling stuff
 - Portfolio
 
-NTS: I visit this page too often, so might as well give a reminder that _finals are next week_ and I've studied _zilch_.
-
 ---
 
 **FIND ME:**
