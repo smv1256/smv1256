@@ -10,7 +10,6 @@ I also like wires, blowing things up, and motorcycles.
 
 **CURRENT PROJECTS:** 
 <br>
-- History final (website w/Next... Probs not the best time to experiment but ¯\\\_(ツ)\_/¯)
 - TSA website
     - Chatbot! TTS?
 - Far too many comps
