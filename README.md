@@ -1,6 +1,6 @@
 # Bonjour! I'm S. M. V. :)
 
-Hiya! I'm S. M. V., a 15-yo aspiring dev from Neptune. To be honest, I don't know too much about programming, although I'm trying to learn. I love creating [graphics](https://www.khanacademy.org/profile/MildlyAwkward/projects) (PJS, p5js, Vanilla JS [ctx], handcrafted SVGs, Figma, Canva) and front-end development, and I'm certainly hoping to learn more about back-end dev, too, :D. I've recently been experimenting with AI; hopefully, that leads to something...
+Hiya! I'm S. M. V., a 15-yo aspiring dev from Neptune. To be honest, I don't know too much about programming, although I'm trying to learn. I love creating [graphics](https://www.khanacademy.org/profile/MildlyAwkward/projects) (Figma, PJS, p5js [used to on KA], Vanilla JS [ctx], SVGs, Canva) and front-end development, and I'm certainly hoping to learn more about back-end dev, too, :D. I've recently been experimenting with AI; hopefully, that leads to something...
 
 I also like wires, blowing things up, and motorcycles. 
 <br>A lot. 
@@ -12,10 +12,9 @@ I also like wires, blowing things up, and motorcycles.
 <br>
 - TSA website
     - Chatbot! TTS?
+- National Cyber Scholar certification due May ;-;
 - Far too many comps
-- Several clubs, two going to nationals, o.O
-    - Shoot so here's future S. M. V. and I only remember one going to Nationals which means I'm concerned b'cuz this means I'm forgetting something
-    - Also elections for clubs... ._.
+- Several clubs
 - Harvard certifications [I got one!]
 - Settin' up smthn B)
 - Reassembling stuff
