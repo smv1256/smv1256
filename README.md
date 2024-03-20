@@ -1,6 +1,6 @@
-# Bonjour! I'm S. M. V. :)
+# Bonjour! I'm Shriya :)
 
-Hiya! I'm S. M. V., a 15-yo aspiring dev from Neptune. To be honest, I don't know too much about programming, although I'm trying to learn. I love creating [graphics](https://www.khanacademy.org/profile/MildlyAwkward/projects) (Figma, PJS, p5js [used to on KA], Vanilla JS [ctx], SVGs, Canva) and front-end development, and I'm certainly hoping to learn more about back-end dev, too, :D. I've recently been experimenting with AI; hopefully, that leads to something...
+Hiya! I'm Shriya (aka S. M. V.), a 15-yo aspiring dev from Neptune. To be honest, I don't know too much about programming, although I'm trying to learn. I love creating [graphics](https://www.khanacademy.org/profile/MildlyAwkward/projects) (Figma, PJS, p5js [used to on KA], Vanilla JS [ctx], SVGs, Canva) and front-end development, and I'm certainly hoping to learn more about back-end dev, too, :D. I've recently been experimenting with AI; hopefully, that leads to something...
 
 I also like wires, blowing things up, and motorcycles. 
 <br>A lot. 
