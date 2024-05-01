@@ -8,11 +8,11 @@ I also like wires, blowing things up, and motorcycles.
 
 ---
 
-**CURRENT PROJECTS:** 
+**CURRENT (CODING-ISH) PROJECTS:** 
 <br>
 - National Cyber Scholar certification due May
-- Several clubs
 - Harvard certifications [I got one!]
+- Learning, learning, learning...
 - Settin' up biz B)
 - Portfolio
 
