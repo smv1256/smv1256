@@ -10,14 +10,10 @@ I also like wires, blowing things up, and motorcycles.
 
 **CURRENT PROJECTS:** 
 <br>
-- TSA website
-    - Chatbot! TTS?
-- National Cyber Scholar certification due May ;-;
-- Far too many comps
+- National Cyber Scholar certification due May
 - Several clubs
 - Harvard certifications [I got one!]
-- Settin' up smthn B)
-- Reassembling stuff
+- Settin' up biz B)
 - Portfolio
 
 ---
