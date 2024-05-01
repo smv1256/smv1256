@@ -27,7 +27,6 @@ I also like wires, blowing things up, and motorcycles.
 - [CodePen](https://codepen.io/vanilla5767)
 - [Khan Academy](https://www.khanacademy.org/)
 - [Replit](https://replit.com/@SMVthe1st)
-- Wanna chat? ProtonMail: smv1256@proton.me
 
 ---
 
