@@ -20,14 +20,6 @@ I also like wires, blowing things up, and motorcycles.
 
 ---
 
-**FIND ME:**
-<br>
-- [CodePen](https://codepen.io/vanilla5767)
-- [Khan Academy](https://www.khanacademy.org/)
-- [Replit](https://replit.com/@SMVthe1st)
-
----
-
 Most of my repos are private :skull:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SMVthe1st&theme=github_dark)
