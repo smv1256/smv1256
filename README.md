@@ -11,6 +11,7 @@ I also like wires, blowing things up, and motorcycles.
 **CURRENT (CODING-ISH) PROJECTS:** 
 <br>
 - National Cyber Scholar w/Honors certif due May
+- AI dev thingy?
 - Harvard certification numero dos
 - Learning, learning, learning...
 - Settin' up biz B)
