@@ -4,13 +4,14 @@ Heya! I'm Shriya (aka S. M. V.), a 15-yo aspiring dev from Neptune. I'm a graphi
 
 ---
 
-**HOBBIES:**
+**NON-CS HOBBIES:**
 <br>
 - Singing (trained Carnatic singer for a decade+!)
 - Working out (XC + track + cricket ftw)
 - Debating and pondering over international politics (foreign relations = fascinating)
 - Reading (Catch-22 is the best book ever)
 - Tutoring (mostly the SAT)
+- Bingeing the X-Files
 
 ---
 
