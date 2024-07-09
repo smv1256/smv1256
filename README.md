@@ -28,6 +28,7 @@ Heya! I'm Shriya (aka S. M. V.), a 15-yo aspiring dev from Neptune. I'm a graphi
 Most of my repos are private :skull:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smv1256&theme=github_dark)
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smv1256&theme=github_dark)
 
 ---
