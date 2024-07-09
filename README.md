@@ -29,7 +29,6 @@ Most of my repos are private :skull:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smv1256&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smv1256&theme=github_dark)
-![](https://github-readme-stats.vercel.app/api?username=smv1256&theme=github_dark)
 
 ---
 
