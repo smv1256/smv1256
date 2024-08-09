@@ -17,10 +17,10 @@ Hi there! I'm Shriya (aka S. M. V.), a 15-yo dev from NC. I'm interested in purs
 
 **NON-CS HOBBIES:**
 <br>
-- 10+ yrs trained singer; lifetime keyboardist
-- Working out
-- Reading
-- Tutoring/volunteering
+- 10+ yrs trained singer + lifetime keyboardist
+- Track + cricket enthusiast
+- Reading / writing
+- Tutoring the SAT
 - Bingeing the X-Files :)
 
 ---
