@@ -6,6 +6,7 @@ Hi there! I'm Shriya (aka S. M. V.), a 15-yo dev from NC. I'm interested in purs
 
 **CURRENT CS PROJECTS:** 
 <br>
+- Crazy Creation (freelance)
 - Aivera Education (nonprofit)
 - Research project
 - Schoolhouse × Gemini extension
