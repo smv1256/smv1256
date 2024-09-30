@@ -1,6 +1,6 @@
 # Heya! I'm Shriya :)
 
-Hi there! I'm Shriya (aka S. M. V.), a 15-yo dev from NC. I'm interested in pursuing the intersection between foreign affairs and computer science, particularly regarding global policymaking and national security for augmenting technologies. In my free time, I enjoy web development and UI/UX--I create designs and logos for individuals and brands, and I am even working on some for the government!
+Hi there! I'm Shriya (aka S. M. V.), a 15-yo dev from NC. I'm interested in pursuing the intersection between foreign affairs and computer science, particularly regarding global policymaking and national security for augmenting technologies. In my free time, I enjoy web development and UI/UX--I create designs and logos for individuals and brands, and I am even working on a design for NASA!
 
 ---
 
