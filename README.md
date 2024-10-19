@@ -1,16 +1,14 @@
 # Heya! I'm Shriya :)
 
-Hi there! I'm Shriya (aka S. M. V.), a 15-yo dev from NC. I'm interested in pursuing the intersection between foreign affairs and computer science, particularly regarding global policymaking and national security for augmenting technologies. In my free time, I enjoy web development and UI/UX--I create designs and logos for individuals and brands, and I am even working on a design for NASA!
+Hi there! I'm Shriya, a teen dev from NC. I'm interested in pursuing the intersection between foreign affairs and computer science, particularly regarding global policymaking and national (cyber)security. I also enjoy web development and UI/UX--I create designs and logos for individuals and brands, and I am even working on a design for NASA!
 
 ---
 
-**CURRENT CS PROJECTS:** 
+**WIP DEV PROJECTS:** 
 <br>
-- Crazy Creation (freelance)
-- Aivera Education (nonprofit)
-- Research project
-- Schoolhouse × Gemini extension
-- Harvard AI certification
+- Aivera Education
+- Research
+- Certifications
 - Congressional App Challenge
 - Portfolio
 
@@ -20,10 +18,10 @@ Hi there! I'm Shriya (aka S. M. V.), a 15-yo dev from NC. I'm interested in purs
 <br>
 - 10+ yrs trained singer & lifetime keyboardist
 - Track & cricket enthusiast
-- Learning languages
+- Polyglot
 - Reading / writing
-- Tutoring the SAT
-- Bingeing the X-Files :)
+- SAT tutor
+- X-Files fanatic
 
 ---
 
