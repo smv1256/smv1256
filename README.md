@@ -1,37 +1,11 @@
 # Heya! I'm Shriya :)
 
-Hi there! I'm Shriya, a teen dev from NC. I'm interested in pursuing the intersection between foreign affairs and computer science, particularly regarding global policymaking and national (cyber)security. I also enjoy web development and UI/UX--I create designs and logos for individuals and brands, and I am even working on a design for NASA!
+Hi there! I'm Shriya, a teen dev from NC. I'm passionate about foreign affairs and computer science, particularly global policymaking and cyber-ethics. I enjoy web development and UI/UX, and I create designs and logos--I'm currently working on a design for NASA!
 
 ---
 
-**WIP DEV PROJECTS:** 
-<br>
-- Aivera Education
-- Research
-- Certifications
-- Congressional App Challenge
-- Portfolio
+## Skills:
 
----
-
-**NON-CS HOBBIES:**
-<br>
-- 10+ yrs trained singer & lifetime keyboardist
-- Track & cricket enthusiast
-- Polyglot
-- Reading / writing
-- SAT tutor
-- X-Files fanatic
-
----
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smv1256&theme=github_dark)
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smv1256&theme=github_dark)
-
----
-
-![](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,6 +21,10 @@ Hi there! I'm Shriya, a teen dev from NC. I'm interested in pursuing the interse
 
 ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## Find me:
 
 ![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
