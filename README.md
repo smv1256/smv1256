@@ -1,6 +1,6 @@
 # Heya! I'm Shriya :)
 
-Hi there! I'm Shriya, a teen dev from NC. I'm passionate about foreign affairs and computer science, particularly global policymaking and cyber-ethics. I enjoy web development and UI/UX, and I create designs and logos--I'm currently working on a design for NASA!
+Hi there! I'm [Shriya](https://www.linkedin.com/in/smv1256/), a teen dev from NC. I'm passionate about foreign affairs and computer science, particularly global policymaking and cyber-ethics. I enjoy web development and UI/UX, and I create designs and logos--I'm currently working on a design for NASA!
 
 ---
 
