@@ -1,6 +1,6 @@
 # Heya! I'm Shriya :)
 
-Hi there! I'm [Shriya](https://www.linkedin.com/in/smv1256/), a teen dev from NC. I'm passionate about foreign affairs and computer science, particularly global policymaking and cyber-ethics. I enjoy web development and UI/UX, and I create designs and logos--I'm currently working on a design for NASA!
+Hi there! I'm Shriya, a teen dev from NC. I'm passionate about foreign affairs and computer science, particularly global policymaking and cyber-ethics. I'm obsessed with statistics and data science, and I enjoy web development and UI/UX.
 
 ---
 
@@ -21,15 +21,6 @@ Hi there! I'm [Shriya](https://www.linkedin.com/in/smv1256/), a teen dev from NC
 
 ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## Find me:
-
-![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
-![](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 
 ---
 
