@@ -24,4 +24,8 @@ Hi there! I'm Shriya, a teen dev from NC. I'm passionate about foreign affairs a
 
 ---
 
+![smv1256's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smv1256&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+
+---
+
 ![](https://komarev.com/ghpvc/?username=smv1256&color=blue&label=Profile+Visits)
